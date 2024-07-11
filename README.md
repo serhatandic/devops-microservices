@@ -8,7 +8,7 @@ DevOps Microservices Project Summary:
 - Static Code Analysis:
 
   Integrated ESLint for static code analysis to maintain code quality.
-  Configured ESLint to work with the project, recognizing testing globals and ES module syntax.
+  Configured ESLint to work with the project.
   
 - Unit Testing:
 
