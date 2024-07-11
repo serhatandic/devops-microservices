@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-	res.send('Hello from User Service! - updated3');
+	res.send('Hello from User Service! - updated4');
 });
 
 app.listen(3000, () => {
