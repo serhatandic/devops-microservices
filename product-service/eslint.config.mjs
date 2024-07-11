@@ -6,6 +6,8 @@ export default [
 		languageOptions: {
 			globals: {
 				...globals.browser,
+				sourceType: 'module',
+
 				describe: 'readonly',
 				it: 'readonly',
 				before: 'readonly',

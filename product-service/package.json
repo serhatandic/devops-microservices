@@ -20,5 +20,6 @@
 		"globals": "^15.8.0",
 		"mocha": "^10.6.0",
 		"supertest": "^7.0.0"
-	}
+	},
+	"type": "module"
 }
